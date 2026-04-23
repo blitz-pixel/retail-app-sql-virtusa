@@ -99,6 +99,7 @@ You can adapt these queries to build dashboards, reports, or backend data APIs.
 
 ```text
 .
+├── README.md                 # Project overview and usage guide
 ├── DataBaseCreation.sql      # Schema creation and table-alter operations
 ├── InsertionStatements.sql   # Seed/sample data inserts
 ├── TestCasesExecution.sql    # Query-based validation and analytics checks
